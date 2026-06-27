@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "double=false,facing=north": {
+      "model": "vertical-slab:block/vertical_weathered_cut_copper_slab/vertical_weathered_cut_copper_slab_n"
+    },
+    "double=false,facing=south": {
+      "model": "vertical-slab:block/vertical_weathered_cut_copper_slab/vertical_weathered_cut_copper_slab_s"
+    },
+    "double=false,facing=east": {
+      "model": "vertical-slab:block/vertical_weathered_cut_copper_slab/vertical_weathered_cut_copper_slab_e"
+    },
+    "double=false,facing=west": {
+      "model": "vertical-slab:block/vertical_weathered_cut_copper_slab/vertical_weathered_cut_copper_slab_w"
+    },
+    "double=true,facing=north": {
+      "model": "minecraft:block/weathered_cut_copper"
+    },
+    "double=true,facing=south": {
+      "model": "minecraft:block/weathered_cut_copper"
+    },
+    "double=true,facing=east": {
+      "model": "minecraft:block/weathered_cut_copper"
+    },
+    "double=true,facing=west": {
+      "model": "minecraft:block/weathered_cut_copper"
+    }
+  }
+}

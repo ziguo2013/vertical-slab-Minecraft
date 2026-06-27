@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:granite",
+    "minecraft:polished_granite"
+  ],
+  "result": {
+    "id": "vertical-slab:vertical_polished_granite_slab",
+    "count": 2
+  }
+}

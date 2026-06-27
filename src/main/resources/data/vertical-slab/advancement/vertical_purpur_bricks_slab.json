@@ -1,0 +1,26 @@
+﻿{
+  "criteria": {
+    "has_purpur_bricks_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:purpur_block"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_purpur_bricks_slab"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vertical-slab:vertical_purpur_bricks_slab"
+    ]
+  }
+}

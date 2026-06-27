@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "has_nether_bricks": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:nether_bricks"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_nether_bricks"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vertical-slab:vertical_nether_bricks_slab"
+    ]
+  }
+}

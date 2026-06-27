@@ -1,0 +1,26 @@
+﻿{
+  "criteria": {
+    "has_spruce_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:spruce_planks"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_spruce_slab"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vertical-slab:vertical_spruce_slab"
+    ]
+  }
+}

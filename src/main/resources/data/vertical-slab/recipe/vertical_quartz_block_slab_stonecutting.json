@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:quartz_block",
+  "result": {
+    "id": "vertical-slab:vertical_quartz_block_slab",
+    "count": 2
+  }
+}

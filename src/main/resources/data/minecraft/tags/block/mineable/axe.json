@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "vertical-slab:vertical_oak_slab",
+    "vertical-slab:vertical_spruce_slab",
+    "vertical-slab:vertical_birch_slab",
+    "vertical-slab:vertical_jungle_slab",
+    "vertical-slab:vertical_acacia_slab",
+    "vertical-slab:vertical_dark_oak_slab",
+    "vertical-slab:vertical_mangrove_slab",
+    "vertical-slab:vertical_cherry_slab",
+    "vertical-slab:vertical_pale_oak_slab",
+    "vertical-slab:vertical_bamboo_slab",
+    "vertical-slab:vertical_crimson_slab",
+    "vertical-slab:vertical_warped_slab"
+  ]
+}

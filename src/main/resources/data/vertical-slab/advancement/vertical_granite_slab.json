@@ -1,0 +1,26 @@
+﻿{
+  "criteria": {
+    "has_granite_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:granite"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_granite_slab"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vertical-slab:vertical_granite_slab"
+    ]
+  }
+}

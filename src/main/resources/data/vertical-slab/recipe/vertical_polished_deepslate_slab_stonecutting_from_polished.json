@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:polished_deepslate",
+  "result": {
+    "id": "vertical-slab:vertical_polished_deepslate_slab",
+    "count": 2
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": [
+    "minecraft:tuff",
+    "minecraft:tuff_bricks"
+  ],
+  "result": {
+    "id": "vertical-slab:vertical_tuff_bricks_slab",
+    "count": 2
+  }
+}

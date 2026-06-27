@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "has_blackstone": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:blackstone"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_blackstone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vertical-slab:vertical_blackstone_slab"
+    ]
+  }
+}

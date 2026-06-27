@@ -1,0 +1,8 @@
+﻿{
+  "type": "minecraft:stonecutting",
+  "ingredient": "minecraft:cinnabar_bricks",
+  "result": {
+    "id": "vertical-slab:vertical_cinnabar_bricks_slab",
+    "count": 2
+  }
+}

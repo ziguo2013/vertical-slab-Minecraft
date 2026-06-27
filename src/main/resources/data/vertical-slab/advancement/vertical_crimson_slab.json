@@ -1,0 +1,26 @@
+﻿{
+  "criteria": {
+    "has_crimson_slab": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:crimson_planks"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_crimson_slab"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vertical-slab:vertical_crimson_slab"
+    ]
+  }
+}

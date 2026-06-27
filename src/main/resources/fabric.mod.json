@@ -1,0 +1,38 @@
+{
+	"schemaVersion": 1,
+	"id": "vertical-slab",
+	"version": "2.0.1 + 0.19.3-26.2",
+	"name": "vertical-slab",
+	"description": "Adds vertical slab variants for all vanilla building materials | 为所有原版建筑材料添加竖半砖变种",
+	"authors": [
+		"ziguo2013"
+	],
+	"contact": {
+		"homepage": "https://authors.curseforge.com/#/projects/",
+		"sources": "https://www.curseforge.com/minecraft/mc-mods/vertical-slab-block"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/vertical-slab/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.example.Verticalslab"
+		],
+		"client": [
+			"com.example.client.VerticalslabClient"
+		]
+	},
+	"mixins": [
+		"vertical-slab.mixins.json",
+		{
+			"config": "vertical-slab.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

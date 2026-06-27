@@ -1,0 +1,36 @@
+﻿{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 2,
+              "conditions": [
+                {
+                  "condition": "minecraft:block_state_property",
+                  "block": "vertical-slab:vertical_polished_sulfur_slab",
+                  "properties": {
+                    "double": "true"
+                  }
+                }
+              ]
+            }
+          ],
+          "name": "vertical-slab:vertical_polished_sulfur_slab"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "vertical-slab:block/vertical_polished_sulfur_slab"
+}

@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "double=false,facing=north": {
+      "model": "vertical-slab:block/vertical_polished_blackstone_slab/vertical_polished_blackstone_slab_n"
+    },
+    "double=false,facing=south": {
+      "model": "vertical-slab:block/vertical_polished_blackstone_slab/vertical_polished_blackstone_slab_s"
+    },
+    "double=false,facing=east": {
+      "model": "vertical-slab:block/vertical_polished_blackstone_slab/vertical_polished_blackstone_slab_e"
+    },
+    "double=false,facing=west": {
+      "model": "vertical-slab:block/vertical_polished_blackstone_slab/vertical_polished_blackstone_slab_w"
+    },
+    "double=true,facing=north": {
+      "model": "minecraft:block/polished_blackstone"
+    },
+    "double=true,facing=south": {
+      "model": "minecraft:block/polished_blackstone"
+    },
+    "double=true,facing=east": {
+      "model": "minecraft:block/polished_blackstone"
+    },
+    "double=true,facing=west": {
+      "model": "minecraft:block/polished_blackstone"
+    }
+  }
+}
