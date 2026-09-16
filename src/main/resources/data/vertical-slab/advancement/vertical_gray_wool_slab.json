@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "has_gray_wool": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:gray_wool"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_gray_wool"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vertical-slab:vertical_gray_wool_slab"
+    ]
+  }
+}

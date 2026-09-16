@@ -177,6 +177,74 @@ public class Verticalslab implements ModInitializer {
     public static final Block VERTICAL_SULFUR_BRICKS_SLAB = register("vertical_sulfur_bricks_slab",
             BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_YELLOW).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.5f));
 
+    // Wool (26.3)
+    public static final Block VERTICAL_WHITE_WOOL_SLAB = register("vertical_white_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.SNOW).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_ORANGE_WOOL_SLAB = register("vertical_orange_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_ORANGE).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_MAGENTA_WOOL_SLAB = register("vertical_magenta_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_MAGENTA).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_LIGHT_BLUE_WOOL_SLAB = register("vertical_light_blue_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_LIGHT_BLUE).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_YELLOW_WOOL_SLAB = register("vertical_yellow_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_YELLOW).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_LIME_WOOL_SLAB = register("vertical_lime_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_LIGHT_GREEN).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_PINK_WOOL_SLAB = register("vertical_pink_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_PINK).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_GRAY_WOOL_SLAB = register("vertical_gray_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_GRAY).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_LIGHT_GRAY_WOOL_SLAB = register("vertical_light_gray_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_LIGHT_GRAY).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_CYAN_WOOL_SLAB = register("vertical_cyan_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_CYAN).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_PURPLE_WOOL_SLAB = register("vertical_purple_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_PURPLE).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_BLUE_WOOL_SLAB = register("vertical_blue_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_BLUE).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_BROWN_WOOL_SLAB = register("vertical_brown_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_BROWN).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_GREEN_WOOL_SLAB = register("vertical_green_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_GREEN).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_RED_WOOL_SLAB = register("vertical_red_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_RED).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+    public static final Block VERTICAL_BLACK_WOOL_SLAB = register("vertical_black_wool_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_BLACK).instrument(NoteBlockInstrument.BASS).strength(0.8f).sound(SoundType.WOOL));
+
+    // Concrete (26.3)
+    public static final Block VERTICAL_WHITE_CONCRETE_SLAB = register("vertical_white_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.SNOW).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_ORANGE_CONCRETE_SLAB = register("vertical_orange_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_ORANGE).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_MAGENTA_CONCRETE_SLAB = register("vertical_magenta_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_MAGENTA).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_LIGHT_BLUE_CONCRETE_SLAB = register("vertical_light_blue_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_LIGHT_BLUE).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_YELLOW_CONCRETE_SLAB = register("vertical_yellow_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_YELLOW).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_LIME_CONCRETE_SLAB = register("vertical_lime_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_LIGHT_GREEN).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_PINK_CONCRETE_SLAB = register("vertical_pink_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_PINK).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_GRAY_CONCRETE_SLAB = register("vertical_gray_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_GRAY).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_LIGHT_GRAY_CONCRETE_SLAB = register("vertical_light_gray_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_LIGHT_GRAY).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_CYAN_CONCRETE_SLAB = register("vertical_cyan_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_CYAN).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_PURPLE_CONCRETE_SLAB = register("vertical_purple_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_PURPLE).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_BLUE_CONCRETE_SLAB = register("vertical_blue_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_BLUE).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_BROWN_CONCRETE_SLAB = register("vertical_brown_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_BROWN).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_GREEN_CONCRETE_SLAB = register("vertical_green_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_GREEN).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_RED_CONCRETE_SLAB = register("vertical_red_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_RED).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+    public static final Block VERTICAL_BLACK_CONCRETE_SLAB = register("vertical_black_concrete_slab",
+            BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_BLACK).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.8f));
+
     // Waxed copper
     public static final Block VERTICAL_WAXED_CUT_COPPER_SLAB = register("vertical_waxed_cut_copper_slab",
             BlockBehaviour.Properties.of().mapColor(MapColor.COLOR_ORANGE).instrument(NoteBlockInstrument.BASEDRUM).requiresCorrectToolForDrops().strength(1.0f));
@@ -225,6 +293,18 @@ public class Verticalslab implements ModInitializer {
             VERTICAL_WAXED_WEATHERED_CUT_COPPER_SLAB, VERTICAL_WAXED_OXIDIZED_CUT_COPPER_SLAB,
             VERTICAL_CINNABAR_SLAB, VERTICAL_POLISHED_CINNABAR_SLAB, VERTICAL_CINNABAR_BRICKS_SLAB,
             VERTICAL_SULFUR_SLAB, VERTICAL_POLISHED_SULFUR_SLAB, VERTICAL_SULFUR_BRICKS_SLAB,
+            VERTICAL_WHITE_WOOL_SLAB, VERTICAL_ORANGE_WOOL_SLAB, VERTICAL_MAGENTA_WOOL_SLAB,
+            VERTICAL_LIGHT_BLUE_WOOL_SLAB, VERTICAL_YELLOW_WOOL_SLAB, VERTICAL_LIME_WOOL_SLAB,
+            VERTICAL_PINK_WOOL_SLAB, VERTICAL_GRAY_WOOL_SLAB, VERTICAL_LIGHT_GRAY_WOOL_SLAB,
+            VERTICAL_CYAN_WOOL_SLAB, VERTICAL_PURPLE_WOOL_SLAB, VERTICAL_BLUE_WOOL_SLAB,
+            VERTICAL_BROWN_WOOL_SLAB, VERTICAL_GREEN_WOOL_SLAB, VERTICAL_RED_WOOL_SLAB,
+            VERTICAL_BLACK_WOOL_SLAB,
+            VERTICAL_WHITE_CONCRETE_SLAB, VERTICAL_ORANGE_CONCRETE_SLAB, VERTICAL_MAGENTA_CONCRETE_SLAB,
+            VERTICAL_LIGHT_BLUE_CONCRETE_SLAB, VERTICAL_YELLOW_CONCRETE_SLAB, VERTICAL_LIME_CONCRETE_SLAB,
+            VERTICAL_PINK_CONCRETE_SLAB, VERTICAL_GRAY_CONCRETE_SLAB, VERTICAL_LIGHT_GRAY_CONCRETE_SLAB,
+            VERTICAL_CYAN_CONCRETE_SLAB, VERTICAL_PURPLE_CONCRETE_SLAB, VERTICAL_BLUE_CONCRETE_SLAB,
+            VERTICAL_BROWN_CONCRETE_SLAB, VERTICAL_GREEN_CONCRETE_SLAB, VERTICAL_RED_CONCRETE_SLAB,
+            VERTICAL_BLACK_CONCRETE_SLAB,
     };
 
     private static final CreativeModeTab ITEM_GROUP = FabricCreativeModeTab.builder()
@@ -324,6 +404,28 @@ public class Verticalslab implements ModInitializer {
             output.insertAfter(Blocks.SULFUR, VERTICAL_SULFUR_SLAB);
             output.insertAfter(Blocks.POLISHED_SULFUR, VERTICAL_POLISHED_SULFUR_SLAB);
             output.insertAfter(Blocks.SULFUR_BRICKS, VERTICAL_SULFUR_BRICKS_SLAB);
+        });
+
+        // Insert the 26.3 wool/concrete vertical slabs into the vanilla colored blocks tab,
+        // right after the corresponding colored stairs (wool stairs / concrete stairs live there).
+        CreativeModeTabEvents.modifyOutputEvent(CreativeModeTabs.COLORED_BLOCKS).register(output -> {
+            // Wool (26.3) - insert all together after the wool stairs
+            output.insertAfter(Blocks.WOOL_STAIRS.black(),
+                    VERTICAL_WHITE_WOOL_SLAB, VERTICAL_ORANGE_WOOL_SLAB, VERTICAL_MAGENTA_WOOL_SLAB,
+                    VERTICAL_LIGHT_BLUE_WOOL_SLAB, VERTICAL_YELLOW_WOOL_SLAB, VERTICAL_LIME_WOOL_SLAB,
+                    VERTICAL_PINK_WOOL_SLAB, VERTICAL_GRAY_WOOL_SLAB, VERTICAL_LIGHT_GRAY_WOOL_SLAB,
+                    VERTICAL_CYAN_WOOL_SLAB, VERTICAL_PURPLE_WOOL_SLAB, VERTICAL_BLUE_WOOL_SLAB,
+                    VERTICAL_BROWN_WOOL_SLAB, VERTICAL_GREEN_WOOL_SLAB, VERTICAL_RED_WOOL_SLAB,
+                    VERTICAL_BLACK_WOOL_SLAB);
+
+            // Concrete (26.3) - insert all together after the concrete stairs
+            output.insertAfter(Blocks.CONCRETE_STAIRS.black(),
+                    VERTICAL_WHITE_CONCRETE_SLAB, VERTICAL_ORANGE_CONCRETE_SLAB, VERTICAL_MAGENTA_CONCRETE_SLAB,
+                    VERTICAL_LIGHT_BLUE_CONCRETE_SLAB, VERTICAL_YELLOW_CONCRETE_SLAB, VERTICAL_LIME_CONCRETE_SLAB,
+                    VERTICAL_PINK_CONCRETE_SLAB, VERTICAL_GRAY_CONCRETE_SLAB, VERTICAL_LIGHT_GRAY_CONCRETE_SLAB,
+                    VERTICAL_CYAN_CONCRETE_SLAB, VERTICAL_PURPLE_CONCRETE_SLAB, VERTICAL_BLUE_CONCRETE_SLAB,
+                    VERTICAL_BROWN_CONCRETE_SLAB, VERTICAL_GREEN_CONCRETE_SLAB, VERTICAL_RED_CONCRETE_SLAB,
+                    VERTICAL_BLACK_CONCRETE_SLAB);
         });
     }
 

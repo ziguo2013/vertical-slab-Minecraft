@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "has_blue_concrete": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:blue_concrete"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_blue_concrete"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vertical-slab:vertical_blue_concrete_slab"
+    ]
+  }
+}

@@ -1,4 +1,4 @@
-﻿{
+{
   "variants": {
     "double=false,facing=north": {
       "model": "vertical-slab:block/vertical_polished_cinnabar_slab/vertical_polished_cinnabar_slab_n"

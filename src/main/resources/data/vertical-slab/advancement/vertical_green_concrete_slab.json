@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "has_green_concrete": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:green_concrete"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_green_concrete"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "vertical-slab:vertical_green_concrete_slab"
+    ]
+  }
+}

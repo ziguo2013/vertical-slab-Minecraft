@@ -54,6 +54,22 @@
     "vertical-slab:vertical_cinnabar_bricks_slab",
     "vertical-slab:vertical_sulfur_slab",
     "vertical-slab:vertical_polished_sulfur_slab",
-    "vertical-slab:vertical_sulfur_bricks_slab"
+    "vertical-slab:vertical_sulfur_bricks_slab",
+    "vertical-slab:vertical_white_concrete_slab",
+    "vertical-slab:vertical_orange_concrete_slab",
+    "vertical-slab:vertical_magenta_concrete_slab",
+    "vertical-slab:vertical_light_blue_concrete_slab",
+    "vertical-slab:vertical_yellow_concrete_slab",
+    "vertical-slab:vertical_lime_concrete_slab",
+    "vertical-slab:vertical_pink_concrete_slab",
+    "vertical-slab:vertical_gray_concrete_slab",
+    "vertical-slab:vertical_light_gray_concrete_slab",
+    "vertical-slab:vertical_cyan_concrete_slab",
+    "vertical-slab:vertical_purple_concrete_slab",
+    "vertical-slab:vertical_blue_concrete_slab",
+    "vertical-slab:vertical_brown_concrete_slab",
+    "vertical-slab:vertical_green_concrete_slab",
+    "vertical-slab:vertical_red_concrete_slab",
+    "vertical-slab:vertical_black_concrete_slab"
   ]
 }

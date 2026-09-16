@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "vertical-slab:vertical_white_wool_slab",
+    "vertical-slab:vertical_orange_wool_slab",
+    "vertical-slab:vertical_magenta_wool_slab",
+    "vertical-slab:vertical_light_blue_wool_slab",
+    "vertical-slab:vertical_yellow_wool_slab",
+    "vertical-slab:vertical_lime_wool_slab",
+    "vertical-slab:vertical_pink_wool_slab",
+    "vertical-slab:vertical_gray_wool_slab",
+    "vertical-slab:vertical_light_gray_wool_slab",
+    "vertical-slab:vertical_cyan_wool_slab",
+    "vertical-slab:vertical_purple_wool_slab",
+    "vertical-slab:vertical_blue_wool_slab",
+    "vertical-slab:vertical_brown_wool_slab",
+    "vertical-slab:vertical_green_wool_slab",
+    "vertical-slab:vertical_red_wool_slab",
+    "vertical-slab:vertical_black_wool_slab"
+  ]
+}
